@@ -13,7 +13,7 @@ Este proyecto representa una práctica completa de maquetación, diseño básico
 
 ## 🖼️ Vista previa
 
-![Preview](./assets/preview.png)
+![Preview](./assets/Preview.png)
 
 ---
 
