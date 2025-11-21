@@ -1,0 +1,68 @@
+body {
+    background-image: url("Fondo menu.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+header {
+    width: 1200px;
+    height: 100px;
+    background-color: rgb(114, 88, 16);
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+nav {
+    background-color: rgb(114, 88, 16);
+    padding: 10px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.contenedor {
+    display: flex;
+    justify-content: center; /* horizontal */
+    align-items: center;      /* vertical */
+    height: auto;            /* ocupa toda la pantalla */
+}
+
+.img-centro {
+    max-width: auto; /* opcional: ajuste del tamaño */
+}
+section {
+    background-color: rgba(228, 207, 138, 0.877);
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer {
+    background-color: rgb(114, 88, 16);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+a {
+    color: rgb(34, 34, 34);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1, h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
